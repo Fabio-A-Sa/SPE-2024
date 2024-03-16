@@ -3,19 +3,19 @@
 
 The player has many different modes and difficults to choose:
 
-![Cohesion](/images/cohesion.png)
+![Cohesion](images/cohesion.png)
 
 The player has multiple algorithms to run:
 
-![Game Start](/images/game.png)
+![Game Start](images/game.png)
 
 An example of computed Search Tree of DFS algorithm:
 
-![IA Search Algorithm 1](/images/dfs.png)
+![IA Search Algorithm 1](images/dfs.png)
 
 An example of computed Search Tree of A* algorithm:
 
-![IA Search Algorithm 2](/images/search.png)
+![IA Search Algorithm 2](images/search.png)
 
 ## Table of Contents
 
