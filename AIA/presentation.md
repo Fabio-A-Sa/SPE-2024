@@ -4,7 +4,7 @@
 [comment]: # (mdslides presentation.md --include media)
 
 [comment]: # (Set the theme:)
-[comment]: # (THEME = dracula)
+[comment]: # (THEME = night)
 [comment]: # (CODE_THEME = base16/zenburn)
 [comment]: # (The list of themes is at https://revealjs.com/themes/)
 [comment]: # (The list of code themes is at https://highlightjs.org/)
@@ -21,72 +21,107 @@
 [comment]: # (respondToHashChanges: false)
 [comment]: # (Other settings are documented at https://revealjs.com/config/)
 
-<div style="font-size: 2em;">
-SPE 2024 @ FEUP  <br>
-</div>
-
-<div style="font-size: 3em;">
+<div style="font-size: 2.5em;">
 Artificial Intelligence Applications
 </div>
 
-<div style="font-size: 0.5em;">
-Fábio Sá | MSc Student<br>
-João Araújo | MSc Student<br>
+<div style="font-size: 1.5em;">
+Semana Profissão Engenharia 2024<br>
+</div>
+<br><br>
+
+<div style="font-size: 0.7em;">
+Fábio Sá & João Araújo <br>
+MSc in Informatics and Computing Engineering Students @ FEUP<br>
 </div>
 
-[comment]: # (A comment starting with three or more !!! marks a slide break.)
-[comment]: # (!!!)
+[comment]: # (!!! data-auto-animate data-background-video="media/video.mp4", data-background-video-loop data-background-video-muted data-background-opacity="0.2")
 
-This is a sample presentation to showcase [markdown-slides](https://gitlab.com/da_doomer/markdown-slides). The source markdown file is [presentation.md](https://gitlab.com/da_doomer/markdown-slides/-/blob/master/example/presentation.md).
+<div style="font-size: 1em;">
+O que é a
+</div>
 
-[comment]: # (!!!)
+<div style="font-size: 3em;">
+Inteligência Artificial?
+</div>
 
-Use markdown to harness the power of Reveal.js.
+[comment]: # (!!! data-background-video="media/video.mp4", data-background-video-loop data-background-video-muted data-background-opacity="0.2")
 
-[comment]: # (!!!)
+<div style="font-size: 1em;">
+Algo para ajudar
+</div>
 
-## Lists and math
+<div style="font-size: 2em;">
+nos trabalhos da escola?
+</div>
 
-- Using markdown to write presentations
-- Easy lists
-- LaTeX math syntax
+![Chat GPT](media/chatgpt.png) <!-- .element: style="height:30vh; max-width:50vw; image-rendering: crisp-edges;" -->
 
-`$$ J(\theta_0,\theta_1) = \sum_{i=0} $$`
+[comment]: # (!!! data-background-video="media/video.mp4", data-background-video-loop data-background-video-muted data-background-opacity="0.2")
 
-[comment]: # (!!!)
+<div style="font-size: 1em;">
+Algo que vai
+</div>
 
-Code syntax highlighting and animations:
+<div style="font-size: 2em;">
+dominar o mundo?
+</div>
 
-```js [1-2|3|4]
-let a = 1;
-let b = 2;
-let c = x => 1 + 2 + x;
-c(3);
-```
+![Chat GPT](media/dominar.png) <!-- .element: style="height:30vh; max-width:50vw; image-rendering: crisp-edges;" -->
 
-Notice the background color change.
+[comment]: # (!!! data-background-video="media/video.mp4", data-background-video-loop data-background-video-muted data-background-opacity="0.2")
 
-[comment]: # (section attributes for the just-ending slide can be specified:)
-[comment]: # (!!! data-background-color="aquamarine")
+## Aplicações da Inteligência Artificial
+
+[comment]: # (!!! data-auto-animate data-background-video="media/video.mp4", data-background-video-loop data-background-video-muted data-background-opacity="0.2")
+
+## Aplicações da Inteligência Artificial
+
+- Revisão de textos
+
+[comment]: # (!!! data-auto-animate data-background-video="media/video.mp4", data-background-video-loop data-background-video-muted data-background-opacity="0.2")
+
+## Aplicações da Inteligência Artificial
+
+- Revisão de textos
+- Previsões de doenças
+
+[comment]: # (!!! data-auto-animate data-background-video="media/video.mp4", data-background-video-loop data-background-video-muted data-background-opacity="0.2")
+
+## Aplicações da Inteligência Artificial
+
+- Revisão de textos
+- Previsões de doenças
+- Assistência virtual e Chatbots
+
+[comment]: # (!!! data-auto-animate data-background-video="media/video.mp4", data-background-video-loop data-background-video-muted data-background-opacity="0.2")
+
+## Aplicações da Inteligência Artificial
+
+- Revisão de textos
+- Previsões de doenças
+- Assistência virtual e Chatbots
+
+e claro...
+
+[comment]: # (!!! data-auto-animate data-background-video="media/video.mp4", data-background-video-loop data-background-video-muted data-background-opacity="0.2")
+
+# JOGOS
+
+[comment]: # (!!! data-auto-animate data-background-video="media/video.mp4", data-background-video-loop data-background-video-muted data-background-opacity="0.2")
 
 Use background videos, background pictures and **text formatting**,
 everything *without breaking* your markdown files.
 
-[comment]: # (Other background options: https://revealjs.com/backgrounds/)
 [comment]: # (!!! data-background-video="media/video.mp4", data-background-video-loop data-background-video-muted data-background-opacity="0.2")
 
-Even speaker notes, accessed through the `S` key on your keyboard.
 
-(You may have to allow pop-up windows and try again.)
-
-Note:
-This will only appear in the speaker view! 🤯
 
 [comment]: # (!!!)
 
 ## Pictures
 
-![picture of spaghetti](media/image0.gif) <!-- .element: style="height:50vh; max-width:80vw; image-rendering: crisp-edges;" -->
+![picture of spaghetti](media/chatgpt.png) <!-- .element: style="height:50vh; max-width:80vw; image-rendering: crisp-edges;" -->
 
 Showcase media including images, videos and animations.
 
