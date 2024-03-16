@@ -119,46 +119,38 @@ Estão cansados de dar grind nos jogos?
 ### Projecto
 # Cohesion Free
 
-![Projecto](media/cohesion.png) <!-- .element: style="height:30vh; max-width:50vw; image-rendering: crisp-edges;" -->
+![Projecto](media/cohesion.png) <!-- .element: style="height:40vh; max-width:70vw; image-rendering: crisp-edges;" -->
 
 [comment]: # (!!! data-background-video="media/video.mp4", data-background-video-loop data-background-video-muted data-background-opacity="0.2")
 
-# Cohesion Free
+### Cohesion Free
 # Como jogar?
 
-![Como jogar?](media/game.png) <!-- .element: style="height:30vh; max-width:50vw; image-rendering: crisp-edges;" -->
+![Como jogar?](media/game.png) <!-- .element: style="height:40vh; max-width:70vw; image-rendering: crisp-edges;" -->
 
-[comment]: # (!!!)
+[comment]: # (!!! data-background-video="media/video.mp4", data-background-video-loop data-background-video-muted data-background-opacity="0.2")
 
 ...
 
-[comment]: # (!!!)
+[comment]: # (!!! data-background-video="media/video.mp4", data-background-video-loop data-background-video-muted data-background-opacity="0.2")
 
-O algoritmo de Inteligência Artificial escolhe o melhor conjunto de movimentos de entre centenas!
-
-![A melhor solução](media/search.png) <!-- .element: style="height:30vh; max-width:50vw; image-rendering: crisp-edges;" -->
-
-[comment]: # (!!!)
-
-Questões?
-
-[comment]: # (!!!)
-
-Código fonte:
-Apresentação: 
-
-[comment]: # (!!!)
-
-<div style="font-size: 2.5em;">
-Artificial Intelligence Applications
+<div style="font-size: 0.8em;">
+O algoritmo de Inteligência Artificial escolhe o melhor conjunto de movimentos
 </div>
 
-<div style="font-size: 1.5em;">
-Semana Profissão Engenharia 2024<br>
+<div style="font-size: 2em;">
+entre centenas!
 </div>
-<br><br>
 
-<div style="font-size: 0.7em;">
-Fábio Sá & João Araújo <br>
-MSc in Informatics and Computing Engineering Students @ FEUP<br>
-</div>
+![A melhor solução](media/search.png) <!-- .element: style="height:50vh; max-width:80vw; image-rendering: crisp-edges;" -->
+
+[comment]: # (!!! data-background-video="media/video.mp4", data-background-video-loop data-background-video-muted data-background-opacity="0.2")
+
+# Questões?
+
+[comment]: # (!!! data-background-video="media/video.mp4", data-background-video-loop data-background-video-muted data-background-opacity="0.2")
+
+#### Código fonte: []() <br>
+#### Apresentação: []() <br>
+
+[comment]: # (!!! data-background-video="media/video.mp4", data-background-video-loop data-background-video-muted data-background-opacity="0.2")
