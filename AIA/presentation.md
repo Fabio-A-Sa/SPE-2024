@@ -102,136 +102,63 @@ dominar o mundo?
 - Previsões de doenças
 - Assistência virtual e Chatbots
 
-e claro...
-
 [comment]: # (!!! data-auto-animate data-background-video="media/video.mp4", data-background-video-loop data-background-video-muted data-background-opacity="0.2")
+
+e claro...
 
 # JOGOS
 
 [comment]: # (!!! data-auto-animate data-background-video="media/video.mp4", data-background-video-loop data-background-video-muted data-background-opacity="0.2")
 
-Use background videos, background pictures and **text formatting**,
-everything *without breaking* your markdown files.
+Estão cansados de dar grind nos jogos? 
+
+## Criem o vosso bot!
+
+[comment]: # (!!! data-auto-animate data-background-video="media/video.mp4", data-background-video-loop data-background-video-muted data-background-opacity="0.2")
+
+### Projecto
+# Cohesion Free
+
+![Projecto](media/cohesion.png) <!-- .element: style="height:30vh; max-width:50vw; image-rendering: crisp-edges;" -->
 
 [comment]: # (!!! data-background-video="media/video.mp4", data-background-video-loop data-background-video-muted data-background-opacity="0.2")
 
+# Cohesion Free
+# Como jogar?
 
-
-[comment]: # (!!!)
-
-## Pictures
-
-![picture of spaghetti](media/chatgpt.png) <!-- .element: style="height:50vh; max-width:80vw; image-rendering: crisp-edges;" -->
-
-Showcase media including images, videos and animations.
+![Como jogar?](media/game.png) <!-- .element: style="height:30vh; max-width:50vw; image-rendering: crisp-edges;" -->
 
 [comment]: # (!!!)
 
-## Animations
-
-- This is an example list
-- Just to showcase Reveal.js' animations
-
-[comment]: # (!!! data-auto-animate)
-
-## Animations
-
-- This is an example list
-- Just to showcase Reveal.js' animations
-- This item will be automatically faded-in
-
-[comment]: # (!!! data-auto-animate)
-
-```js [1-2|3|4]
-let a = 1;
-let b = 2;
-let c = x => 1 + 2 + x;
-c(3);
-```
-<!-- .element: data-id="code" -->
-
-[comment]: # (!!! data-auto-animate)
-
-```js [5]
-let a = 1;
-let b = 2;
-let c = x => 1 + 2 + x;
-c(3);
-c(5);
-```
-<!-- .element: data-id="code" -->
-
-Animate code as well <!-- .element: class="fragment" data-fragment-index="1" -->
-
-[comment]: # (!!! data-auto-animate)
-
-Insert Youtube videos.
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KPfzRSBzNX4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+...
 
 [comment]: # (!!!)
 
-Insert local videos.
+O algoritmo de Inteligência Artificial escolhe o melhor conjunto de movimentos de entre centenas!
 
-<iframe width="560" height="315" src="media/video.mp4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-[comment]: # (!!!)
-
-Download [markdown-slides](https://gitlab.com/da_doomer/markdown-slides)!
+![A melhor solução](media/search.png) <!-- .element: style="height:30vh; max-width:50vw; image-rendering: crisp-edges;" -->
 
 [comment]: # (!!!)
 
-A couple more examples follow.
+Questões?
 
 [comment]: # (!!!)
 
-![logo](media/wide.png)
-
-***use markdown to write slides***
-
-Author Name
+Código fonte:
+Apresentação: 
 
 [comment]: # (!!!)
 
-[comment]: # (!!! data-background-image="media/inkscape.png" data-background-size="contain")
-
-Press down on your keyboard or swipe down.
-
-[comment]: # (|||)
-
-**Vertical slides!**
-
-(thanks [@porvik!](https://gitlab.com/da_doomer/markdown-slides/-/issues/8))
-
-[comment]: # (|||)
-
-As many vertical slides as you like.
-
-[comment]: # (!!!)
-
-Add tables:
-
-| Insert | Tables |
-| ------ | ------ |
-| A row  | Another|
-| text   | more   |
-
-[comment]: # (!!!)
-
-## Vertical separator
-
-----------
-
-Some other text.
-
-[comment]: # (!!!)
-
-You can also use in-line HTML.
-
-<div style="font-size: 1em;">
-small
+<div style="font-size: 2.5em;">
+Artificial Intelligence Applications
 </div>
 
-<div style="font-size: 5em;">
-large
+<div style="font-size: 1.5em;">
+Semana Profissão Engenharia 2024<br>
+</div>
+<br><br>
+
+<div style="font-size: 0.7em;">
+Fábio Sá & João Araújo <br>
+MSc in Informatics and Computing Engineering Students @ FEUP<br>
 </div>
