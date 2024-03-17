@@ -3,3 +3,5 @@
 .vscode
 src/~$results.xlsx
 .venv
+venv
+.src/__pycache__
