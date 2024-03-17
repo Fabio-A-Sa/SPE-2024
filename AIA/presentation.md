@@ -160,17 +160,17 @@ e claro...
 </div>
 [comment]: # (!!! data-auto-animate data-background-video="media/video.mp4", data-background-video-loop data-background-video-muted data-background-opacity="0.2")
 
-### Projecto
+### Projeto
 # Cohesion Free
 
-![Projecto](media/cohesion.png) <!-- .element: style="height:40vh; max-width:70vw; image-rendering: crisp-edges;" -->
+![Projeto](media/cohesion.png) <!-- .element: style="height:40vh; max-width:70vw; image-rendering: crisp-edges;" -->
 
 [comment]: # (!!! data-background-video="media/video.mp4", data-background-video-loop data-background-video-muted data-background-opacity="0.2")
 
 ### Cohesion Free
 # Como jogar?
 
-![Como jogar?](media/game.png) <!-- .element: style="height:40vh; max-width:70vw; image-rendering: crisp-edges;" -->
+<video src="media/gameplay.mp4" style="height:80%; width:70%;" autoplay loop></video>
 
 [comment]: # (!!! data-background-video="media/video.mp4", data-background-video-loop data-background-video-muted data-background-opacity="0.2")
 
@@ -179,7 +179,7 @@ e claro...
 [comment]: # (!!! data-background-video="media/video.mp4", data-background-video-loop data-background-video-muted data-background-opacity="0.2")
 
 <div style="font-size: 1em;">
-O algoritmo de Inteligência Artificial escolhe o melhor conjunto de movimentos
+O algoritmo de Inteligência Artificial escolhe<br>o melhor conjunto de movimentos
 </div>
 
 <div style="font-size: 1.5em;">
