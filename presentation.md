@@ -30,14 +30,14 @@ Semana Profissão Engenharia <br> 2024
 <div style="font-size: 1em; display: inline-block; width: 45%; padding: 10px">
     <div style="font-size: 0.9em;">
         <h2>Manhã</h2>
-        <p style="font-size: 0.8em;"><a href="/AIA/presentation/">Aplicações da Inteligência Artificial</a></p>
+        <p style="font-size: 0.8em;"><a href="/SPE-2024/AIA/presentation/">Aplicações da Inteligência Artificial</a></p>
     </div>
 </div>
 
 <div style="font-size: 1em; display: inline-block; width: 45%; padding: 10px">
     <div style="font-size: 0.9em;">
         <h2>Tarde</h2>
-        <p style="font-size: 0.8em;"><a href="/GIG/presentation/">Gráficos, Interação e <br>Jogos</a></p>
+        <p style="font-size: 0.8em;"><a href="/SPE-2024/GIG/presentation/">Gráficos, Interação e <br>Jogos</a></p>
     </div>
 </div>
 
