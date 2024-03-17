@@ -45,7 +45,7 @@ MSc in Informatics and Computing Engineering Students @ FEUP<br>
 
 [comment]: # (!!! data-background-video="media/video.mp4", data-background-video-loop data-background-video-muted data-background-opacity="0.2")
 
-#### Código e apresentação disponível em
+#### Código e apresentação disponíveis em
 
 [https://github.com/Fabio-A-Sa/SPE-2024/tree/main/GIG](https://github.com/Fabio-A-Sa/SPE-2024/tree/main/GIG) <br>
 
