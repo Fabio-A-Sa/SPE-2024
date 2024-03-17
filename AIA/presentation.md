@@ -37,6 +37,18 @@ MSc in Informatics and Computing Engineering Students @ FEUP<br>
 
 [comment]: # (!!! data-auto-animate data-background-video="media/video.mp4", data-background-video-loop data-background-video-muted data-background-opacity="0.2")
 
+<div style="font-size: 1.5em;">
+Fábio Sá & João Araújo <br>
+MSc in Informatics and Computing Engineering Students @ FEUP<br>
+</div>
+
+|Fábio Sá|João Araújo|	
+|--|--|
+|<img src="media/fabio.jpg" alt="Fábio Sá" style="width: 200px; height: 200px;">|<img src="media/joao.jpg" alt="João Araújo" style="width: 200px; height: 250px;">|
+|...|Data engineering, IoT, Data visualization|
+
+[comment]: # (!!! data-auto-animate data-background-video="media/video.mp4", data-background-video-loop data-background-video-muted data-background-opacity="0.2")
+
 <div style="font-size: 1em;">
 O que é a
 </div>
@@ -48,11 +60,11 @@ Inteligência Artificial?
 [comment]: # (!!! data-background-video="media/video.mp4", data-background-video-loop data-background-video-muted data-background-opacity="0.2")
 
 <div style="font-size: 1em;">
-Algo para ajudar
+Algo para ajudar...
 </div>
 
 <div style="font-size: 2em;">
-nos trabalhos da escola?
+a ter mais 15 minutos para jogar em vez de estudar?
 </div>
 
 ![Chat GPT](media/chatgpt.png) <!-- .element: style="height:30vh; max-width:50vw; image-rendering: crisp-edges;" -->
@@ -60,7 +72,7 @@ nos trabalhos da escola?
 [comment]: # (!!! data-background-video="media/video.mp4", data-background-video-loop data-background-video-muted data-background-opacity="0.2")
 
 <div style="font-size: 1em;">
-Algo que vai
+Algo que vai...
 </div>
 
 <div style="font-size: 2em;">
@@ -68,6 +80,10 @@ dominar o mundo?
 </div>
 
 ![Chat GPT](media/dominar.png) <!-- .element: style="height:30vh; max-width:50vw; image-rendering: crisp-edges;" -->
+
+<div style="font-size: 0.6em;">
+( Infelizmente sim :cry: )
+</div>
 
 [comment]: # (!!! data-background-video="media/video.mp4", data-background-video-loop data-background-video-muted data-background-opacity="0.2")
 
@@ -112,7 +128,7 @@ e claro...
 
 Estão cansados de dar grind nos jogos? 
 
-## Criem o vosso bot!
+## Criem os vossos bots! (de forma honesta... claro)
 
 [comment]: # (!!! data-auto-animate data-background-video="media/video.mp4", data-background-video-loop data-background-video-muted data-background-opacity="0.2")
 
