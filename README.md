@@ -8,8 +8,8 @@ Estes slides servem de base às apresentações das Unidades Curriculares e corr
 
 O site está disponível em: [fabio-a-sa.github.io/SPE-2024](https://fabio-a-sa.github.io/SPE-2024/)
 
-- Fábio Sá (AIA & GIG)
-- João Araújo (AIA)
-- Daniel Mendes (GIG)
+- Fábio Sá
+- João Araújo
+- Daniel Mendes
 
---- Março, 2021
+Março, 2021

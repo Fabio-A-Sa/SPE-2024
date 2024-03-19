@@ -37,6 +37,64 @@ MSc in Informatics and Computing Engineering Students @ FEUP<br>
 
 [comment]: # (!!! data-auto-animate data-background-video="media/video.mp4", data-background-video-loop data-background-video-muted data-background-opacity="0.2")
 
+## Aplicações da Computação Gráfica
+
+[comment]: # (!!! data-background-video="media/video.mp4", data-background-video-loop data-background-video-muted data-background-opacity="0.2")
+
+## Aplicações da Computação Gráfica
+
+- Filmes e Animação
+
+[comment]: # (!!! data-background-video="media/video.mp4", data-background-video-loop data-background-video-muted data-background-opacity="0.2")
+
+## Aplicações da Computação Gráfica
+
+- Filmes e Animação
+- Arquitetura e Design
+
+[comment]: # (!!! data-background-video="media/video.mp4", data-background-video-loop data-background-video-muted data-background-opacity="0.2")
+
+## Aplicações da Computação Gráfica
+
+- Filmes e Animação
+- Arquitetura e Design
+- Medicina e Simulação
+
+[comment]: # (!!! data-background-video="media/video.mp4", data-background-video-loop data-background-video-muted data-background-opacity="0.2")
+
+e claro...
+
+# JOGOS
+
+[comment]: # (!!! data-background-video="media/video.mp4", data-background-video-loop data-background-video-muted data-background-opacity="0.2")
+
+Onde tudo são
+
+## Triângulos
+
+[comment]: # (!!! data-background-video="media/video.mp4", data-background-video-loop data-background-video-muted data-background-opacity="0.2")
+
+Onde tudo são
+
+## Triângulos
+
+![Triangulos](media/poligonos.jpg)
+
+[comment]: # (!!! data-background-video="media/video.mp4", data-background-video-loop data-background-video-muted data-background-opacity="0.2")
+
+Onde a Matemática é noss amiga
+
+![Triangulos](media/poligonos.jpg)
+
+[comment]: # (!!! data-background-video="media/video.mp4", data-background-video-loop data-background-video-muted data-background-opacity="0.2")
+
+
+
+
+
+
+
+
 ## [Jogar!](../project/)
 
 [comment]: # (!!! data-background-video="media/video.mp4", data-background-video-loop data-background-video-muted data-background-opacity="0.2")
