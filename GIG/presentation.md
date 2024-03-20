@@ -37,22 +37,34 @@ MSc in Informatics and Computing Engineering Students @ FEUP<br>
 
 [comment]: # (!!! data-auto-animate data-background-video="media/video.mp4", data-background-video-loop data-background-video-muted data-background-opacity="0.2")
 
+	<div style="font-size: 1.5em;">
+	Bem-vindos à FEUP & L.EIC
+	</div>
+
+	<div style="display: flex; justify-content: center; align-items: flex-start;">
+		<img src="media/1-ano.png" alt="1 Ano" style="width: 33%;">
+		<img src="media/2-ano.png" alt="2 Ano" style="width: 33%;">
+		<img src="media/3-ano.png" alt="3 Ano" style="width: 33%;">
+	</div>
+
+[comment]: # (!!! data-auto-animate data-background-video="media/video.mp4", data-background-video-loop data-background-video-muted data-background-opacity="0.2")
+
 ## Aplicações da Computação Gráfica
 
-[comment]: # (!!! data-background-video="media/video.mp4", data-background-video-loop data-background-video-muted data-background-opacity="0.2")
+[comment]: # (!!! data-auto-animate data-background-video="media/video.mp4", data-background-video-loop data-background-video-muted data-background-opacity="0.2")
 
 ## Aplicações da Computação Gráfica
 
 - Filmes e Animação
 
-[comment]: # (!!! data-background-video="media/video.mp4", data-background-video-loop data-background-video-muted data-background-opacity="0.2")
+[comment]: # (!!! data-auto-animate data-background-video="media/video.mp4", data-background-video-loop data-background-video-muted data-background-opacity="0.2")
 
 ## Aplicações da Computação Gráfica
 
 - Filmes e Animação
 - Arquitetura e Design
 
-[comment]: # (!!! data-background-video="media/video.mp4", data-background-video-loop data-background-video-muted data-background-opacity="0.2")
+[comment]: # (!!! data-auto-animate data-background-video="media/video.mp4", data-background-video-loop data-background-video-muted data-background-opacity="0.2")
 
 ## Aplicações da Computação Gráfica
 
@@ -60,19 +72,13 @@ MSc in Informatics and Computing Engineering Students @ FEUP<br>
 - Arquitetura e Design
 - Medicina e Simulação
 
-[comment]: # (!!! data-background-video="media/video.mp4", data-background-video-loop data-background-video-muted data-background-opacity="0.2")
+[comment]: # (!!! data-auto-animate data-background-video="media/video.mp4", data-background-video-loop data-background-video-muted data-background-opacity="0.2")
 
 e claro...
 
 # JOGOS
 
-[comment]: # (!!! data-background-video="media/video.mp4", data-background-video-loop data-background-video-muted data-background-opacity="0.2")
-
-Onde tudo são
-
-## Triângulos
-
-[comment]: # (!!! data-background-video="media/video.mp4", data-background-video-loop data-background-video-muted data-background-opacity="0.2")
+[comment]: # (!!! data-auto-animate data-background-video="media/video.mp4", data-background-video-loop data-background-video-muted data-background-opacity="0.2")
 
 Onde tudo são
 
@@ -82,18 +88,9 @@ Onde tudo são
 
 [comment]: # (!!! data-background-video="media/video.mp4", data-background-video-loop data-background-video-muted data-background-opacity="0.2")
 
-Onde a Matemática é noss amiga
-
-![Triangulos](media/poligonos.jpg)
+<video src="media/bird.mp4" style="height:80%; width:70%; border: 1px solid black;" autoplay loop controls></video>
 
 [comment]: # (!!! data-background-video="media/video.mp4", data-background-video-loop data-background-video-muted data-background-opacity="0.2")
-
-
-
-
-
-
-
 
 ## [Jogar!](../project/)
 
