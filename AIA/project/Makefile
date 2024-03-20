@@ -31,6 +31,9 @@ install: venv
 run:
 	.$(SEP)venv$(SEP)$(SCRIPTS)$(SEP)$(PYTHON) src$(SEP)__main__.py
 
+executable:
+	.$(SEP)venv$(SEP)$(SCRIPTS)$(SEP)pyinstaller src$(SEP)__main__.py --onefile --name cohesion
+
 clean:
 	$(RM) venv
 	$(RM) src$(SEP)__pycache__
